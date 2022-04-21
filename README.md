@@ -7,4 +7,4 @@
 - [Problem 4](https://leetcode.com/problems/find-and-replace-pattern/)
 - [Problem 5](https://leetcode.com/problems/palindrome-pairs/)
 
-1주차 solution: ./modulabs/week1
+- [1주차 solution](./modulabs/week1)
