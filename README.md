@@ -3,8 +3,8 @@
 Sorting - [./selfStudy/sorting](./selfStudy/sorting)
 
 ## 풀잎스쿨 - 코딩습관 기르기
-|Name|Level|Type|Problem Link|My solution|
-|---|---|---|---|---|
+|Name|Level|Type|My solution|
+|---|---|---|---|
 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|Easy|Array & Linked List|[Link](./modulabs/week1/Problem1.py)|
 |[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|Medium|Array & Linked List|-|
 |[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|Medium|Array & Linked List|[Link](./modulabs/week1/Problem3.py)|
