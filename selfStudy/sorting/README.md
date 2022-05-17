@@ -5,6 +5,7 @@ Studying various sorting algorithms.
 - Selection sort
 - Insertion sort
 - To be added..
+
 Implemented sorting algorithms are in [sort.py](./sort.py)
 
 
