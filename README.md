@@ -2,6 +2,7 @@
 ## 풀잎스쿨 - 코딩습관 기르기
 ### 1주차 문제 링크
 |Name|Type|Problem Link|My solution|
+|---|---|---|---|
 |Intersection of Two Linked Lists|Array & Linked List|[Link](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Link](./modulabs/week1/Problem1.py)|
 |Search Suggestions System|Array & Linked List|[Link](https://leetcode.com/problems/search-suggestions-system/)|-|
 |Remove Duplicates from Sorted List II|Array & Linked List|[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Link](./modulabs/week1/Problem3.py)|
