@@ -25,8 +25,11 @@ Sorting - [./selfStudy/sorting](./selfStudy/sorting)
 |[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|Sorting|[Link](./modulabs/week4/problem3.py)|
 |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium|Sorting|[Link](./modulabs/week4/problem4.py)|
 |[Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|Medium|Sorting|[Link](./modulabs/week4/problem5.py)|
-
-
+|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|Hash Table|[Link](./modulabs/week5/problem1.py)|
+|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Hash Table|[Link](./modulabs/week5/problem2.py)|
+|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Medium|Hash Table|[Link](./modulabs/week5/problem3.py)|
+|[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|Medium|Hash Table|[Link](./modulabs/week5/problem4.py)|
+|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|Medium|Hash Table|[Link](./modulabs/week5/problem5.py)|
 
 
 
