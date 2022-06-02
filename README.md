@@ -30,23 +30,8 @@ Sorting - [./selfStudy/sorting](./selfStudy/sorting)
 |[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|Medium|Hash Table|[Link](./modulabs/week5/problem3.py)|
 |[Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|Medium|Hash Table|[Link](./modulabs/week5/problem4.py)|
 |[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|Medium|Hash Table|[Link](./modulabs/week5/problem5.py)|
-
-
-
-<!-- 
-
-- [Problem 3](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
-- [Problem 4](https://leetcode.com/problems/find-and-replace-pattern/)
-- [Problem 5](https://leetcode.com/problems/palindrome-pairs/)
-
-- [Week-1 soln.](./modulabs/week1)
-
-### 2주차 문제 링크
-- [Problem 1](https://leetcode.com/problems/implement-stack-using-queues/)
-- [Problem 2](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [Problem 3](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
-- [Problem 4](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- [Problem 5](https://leetcode.com/problems/top-k-frequent-elements/)
-
-- [Week2 soln.](./modulabs/week2)
- -->
+|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|Easy|Graph|[Link](./modulabs/week6/problem1.py)|
+|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|Easy|Graph|[Link](./modulabs/week6/problem2.py)|
+|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|Medium|Graph|[Link](./modulabs/week6/problem3.py)|
+|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|Graph|[Link](./modulabs/week6/problem4.py)|
+|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|Medium|Graph|[Link](./modulabs/week6/problem5.py)|
