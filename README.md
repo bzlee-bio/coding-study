@@ -35,8 +35,8 @@ Sorting - [./selfStudy/sorting](./selfStudy/sorting)
 |[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|Medium|Graph|[Link](./modulabs/week6/problem3.py)|
 |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|Graph|[Link](./modulabs/week6/problem4.py)|
 |[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|Medium|Graph|[Link](./modulabs/week6/problem5.py)|
-|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/solution/)|Easy|Greedy|[Link](./modulabs/week8/problem1.py)|
+|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/solution/)|Easy|Greedy|[Link](./modulabs/week9/problem1.py)|
 |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Medium|Greedy|Link|
 |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|Medium|Greedy|Link|
-|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|Backtracking|[Link](./modulabs/week8/problem4.py)|
-|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|Medium|Backtracking|[Link](./modulabs/week8/problem5.py)|
+|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|Easy|Backtracking|[Link](./modulabs/week9/problem4.py)|
+|[Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|Medium|Backtracking|[Link](./modulabs/week9/problem5.py)|
