@@ -35,6 +35,11 @@ Sorting - [./selfStudy/sorting](./selfStudy/sorting)
 |[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|Medium|Graph|[Link](./modulabs/week6/problem3.py)|
 |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|Graph|[Link](./modulabs/week6/problem4.py)|
 |[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|Medium|Graph|[Link](./modulabs/week6/problem5.py)|
+|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|Divide and Conquer|[Link](./modulabs/week8/problem1.py)|
+|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Divide and Conquer|[Link](./modulabs/week8/problem2.py)|
+|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Divide and Conquer|[Link](./modulabs/week8/problem3.py)|
+|[Sort List](https://leetcode.com/problems/sort-list/)|Medium|Divide and Conquer|Link|
+|[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)|Medium|Divide and Conquer|Link|
 |[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/solution/)|Easy|Greedy|[Link](./modulabs/week9/problem1.py)|
 |[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|Medium|Greedy|Link|
 |[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|Medium|Greedy|Link|
